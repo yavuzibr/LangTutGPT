@@ -1,0 +1,3 @@
+streamlit -> App Framework
+langchain -> Llms,chains,prompts,agents
+pyaudio, SpeechRecognition -> speaking exercises
