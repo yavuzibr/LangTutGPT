@@ -1,3 +1,4 @@
 streamlit -> App Framework
-langchain -> Llms,chains,prompts,agents
+langchain -> Llms,chains,prompts
 pyaudio, SpeechRecognition -> speaking exercises
+google-search-results -> for searching agent
